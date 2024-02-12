@@ -4,22 +4,19 @@ asos shopping website
 
 ## Overview
 
-ASOS is a shopping website of clothes for men and women.Once the user registered, it will route to login page.Once user logged ,they can access product to cart and also filters are applied here to select the products ,according to user needs.
+ASOS is a shopping website for clothes, for men and women. Once the user registers, it will route to the login page. Once users log in, they can access the product in the cart, and filters are applied here to select the products according to user needs.
 
 ## Table of Contents
 
 - #installation
 - #usage
 - #technologies-used
-- #features
-- #api-reference
-- #contributing
-- #license
+
 
 ## Installation
 
-client1 - install React, npm i - for dependency , npm start - to run UI.
-server1 - npm init-y , npm i - for dependency , npm run dev - to run server.
+client1 - install React, npm i - for dependency, npm start - to run UI.
+server1 - npm init-y, npm i - for dependency, npm run dev - to run a server.
 
 ```bash
 # Clone the repository
